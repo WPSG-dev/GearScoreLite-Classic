@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: GearScoreLiteClassic
+## Notes: Quickly and easily judge a player's level of Gear.
+## Version: 1.0
+## Author: wpsg
+## SavedVariables: GS_Settings
+
+informationLite.lua
+GearScoreLiteClassic.lua
