@@ -1,13 +1,13 @@
 
 -------------------------------------------------------------------------------
---                        GearScoreLiteClassic                              --
---                             Version 1.0                                   --
---						 Originally by Mirrikat45                            --
---						     Updated by Anon                                 --
+--                        GearScoreLiteClassic                               --
+--                            Version 0.1                                    --
+--			Originally by Mirrikat45                             --
+--			    Updated by Anon                                  --
 -------------------------------------------------------------------------------
 
---Change Log 1.0
---Initial release of GearScoreLite-Classic
+-- Change Log 0.1
+-- Proof of concept for GearScoreLite port to WoW 1.13
 
 ------------------------------------------------------------------------------
 
